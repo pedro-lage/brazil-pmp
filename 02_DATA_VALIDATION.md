@@ -17,3 +17,9 @@ Figura 3 - Série mais longa num raio de 150 km - Resolução 1X
 
 ![Distância à estação mais próxima - Resolução 1X](https://raw.githubusercontent.com/pedro-lage/brazil-pmp/main/00_Images/comprimentoSeries_R150km_X3.png)
 Figura 4 - Série mais longa num raio de 150 km - Resolução 3X
+
+
+## Dados horários
+ - Existe cobertura de aproximadamente mesma escala com 20 anos de série de dados horários disponível no INMET. 
+ - Não cheguei a gerar esses mapas ainda. Em um momento inicial, pensei em fazer o estudo para PMP diária e supérior. Acredito que para o fim de um mestrado seria mais que suficiente. 
+ - Posteriormente, poderiamos utilizar um método de invariabilidade de escala, ou algo similar para projetar essa PMP para durações inferiores (Veber deu essa ideia de pesquisa!)
