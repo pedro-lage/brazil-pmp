@@ -1,3 +1,3 @@
-# Check Project Branches for research lines
+# Check Project Branches for ongoing research and other projects
  - Brazil-pmp
  - 
