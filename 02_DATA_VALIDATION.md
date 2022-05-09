@@ -3,26 +3,26 @@
 ## Dados diários
 Abaixo apresento mapa com distribuição das estações convencionais (dados diários) do INMET no Brasil, em conjunto com cálculo da distância de cada ponto do Brasil à estação mais próxima. Observe que, para maioria do Brasil, existem estações dentro de um raio de cerca de 150 km
 
-![Distância à estação mais próxima - Resolução 1X](https://raw.githubusercontent.com/pedro-lage/masters-research/brasil-pmp/00_Images/comprimentoSeries_R150km_X1.png)
+![Distância à estação mais próxima - Resolução 1X](https://raw.githubusercontent.com/pedro-lage/masters-research/brasil-pmp/00_Images/distanciaEstacoes_X1.png)
 
 Figura 1 - Distância à estação mais próxima - Resolução 1X
 
 
 
-![Distância à estação mais próxima - Resolução 3X](https://raw.githubusercontent.com/pedro-lage/masters-research/brazil-pmp/main/00_Images/distanciaEstacoes_X3.png)
+![Distância à estação mais próxima - Resolução 3X](https://raw.githubusercontent.com/pedro-lage/masters-research/brasil-pmp/00_Images/distanciaEstacoes_X3.png)
 
 Figura 2 - Distância à estação mais próxima - Resolução 3X
 
 
 Apresento abaixo, mapa com o comprimento da série com a estação com maior série dentro do raio de 150 km para cada ponto do Brasil. Observe que, para maioria do sul, sudeste, nordeste e norte, existem estações com longas séries de dados.
 
-![Distância à estação mais próxima - Resolução 1X](https://raw.githubusercontent.com/pedro-lage/masters-research/brazil-pmp/main/00_Images/comprimentoSeries_R150km_X1.png)
+![Distância à estação mais próxima - Resolução 1X](https://raw.githubusercontent.com/pedro-lage/masters-research/brasil-pmp/00_Images/comprimentoSeries_R150km_X1.png)
 
 Figura 3 - Série mais longa num raio de 150 km - Resolução 1X
 
 
 
-![Distância à estação mais próxima - Resolução 1X](https://raw.githubusercontent.com/pedro-lage/masters-research/brazil-pmp/main/00_Images/comprimentoSeries_R150km_X3.png)
+![Distância à estação mais próxima - Resolução 1X](https://raw.githubusercontent.com/pedro-lage/masters-research/brasil-pmp/00_Images/comprimentoSeries_R150km_X3.png)
 
 Figura 4 - Série mais longa num raio de 150 km - Resolução 3X
 
