@@ -1,0 +1,7 @@
+Para cada pixel:
+séries coletadas e consolidação
+	anomalia anual GRACE
+		
+	infiltração:
+		barra acumulada de cada camada para cada ano:
+		anomalia da layer acumulada 
